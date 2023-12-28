@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
         tV.setText("This is a click number:" + x);
         if (x==7){
             tV.setText("Boom !");
-            x=0;
         }
 
     }
